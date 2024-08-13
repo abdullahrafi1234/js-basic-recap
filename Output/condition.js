@@ -33,9 +33,9 @@ else if(marks >=70 && marks<= 79){
 else if (marks >= 60 && marks<=69) {
     document.write("A-")
 }
-else if (marks>=34 && marks<= 50) {
+else if (marks>=33 && marks<= 50) {
     document.write('B-D')
 }
 else(
-    document.write('Fail')
+    console.log("Fail")
 )
