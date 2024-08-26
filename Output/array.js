@@ -41,3 +41,11 @@ for (var i = 0; i < nums.length; i++) {
 }
 // console.log(sum)
 
+
+//......Array method ----
+//push
+//poop
+//shift
+//unshift
+//splice
+
