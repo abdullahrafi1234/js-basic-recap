@@ -48,4 +48,7 @@ for (var i = 0; i < nums.length; i++) {
 //shift
 //unshift
 //splice
+//sort method (only alphabate niye kaj kore)
+//reverse sort method
+//
 
